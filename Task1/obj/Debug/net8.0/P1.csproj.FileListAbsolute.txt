@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\bin\Debug\net8.0\P1.exe
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\bin\Debug\net8.0\P1.deps.json
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\bin\Debug\net8.0\P1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\bin\Debug\net8.0\P1.dll
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\bin\Debug\net8.0\P1.pdb
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.sourcelink.json
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.dll
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\refint\P1.dll
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.pdb
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\P1.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Job\C#\bootCamp\C-Bootcamp-Projects\Task1\obj\Debug\net8.0\ref\P1.dll
